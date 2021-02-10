@@ -41,5 +41,9 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>You need to give access to your library to upload an image</string>
+	<key>NSCameraUsageDescription</key>
+	<string>You need to give access to your camera to upload an image</string>
 </dict>
 </plist>
